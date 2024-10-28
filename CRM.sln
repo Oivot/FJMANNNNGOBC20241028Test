@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.API", "CRM.API\CRM.API.csproj", "{708078AE-B91A-45D8-B51F-A525075B0AF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.DTOs", "CRM.DTOs\CRM.DTOs.csproj", "{BFFF2C4E-7934-44C4-ABDC-2253612DBFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.AppWebMVC", "CRM.AppWebMVC\CRM.AppWebMVC.csproj", "{C3F74320-4143-47F1-BCAA-2B9846773998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708078AE-B91A-45D8-B51F-A525075B0AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708078AE-B91A-45D8-B51F-A525075B0AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708078AE-B91A-45D8-B51F-A525075B0AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708078AE-B91A-45D8-B51F-A525075B0AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFF2C4E-7934-44C4-ABDC-2253612DBFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFF2C4E-7934-44C4-ABDC-2253612DBFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFF2C4E-7934-44C4-ABDC-2253612DBFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFF2C4E-7934-44C4-ABDC-2253612DBFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3F74320-4143-47F1-BCAA-2B9846773998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F74320-4143-47F1-BCAA-2B9846773998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F74320-4143-47F1-BCAA-2B9846773998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F74320-4143-47F1-BCAA-2B9846773998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E029699B-711F-4697-A75F-754FB85C6544}
+	EndGlobalSection
+EndGlobal
